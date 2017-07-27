@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Firebird -" uuid="56b852dc-a6d2-45ef-8c75-20b20b4e234e">
+      <driver-ref>3317f079-7b67-4534-8b03-f542b619bd31</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.firebirdsql.jdbc.FBDriver</jdbc-driver>
+    </data-source>
+    <data-source source="LOCAL" name="Firebird - [2]" uuid="6aaf8b32-eb79-4085-8e18-e25d7c48da01">
+      <driver-ref>3317f079-7b67-4534-8b03-f542b619bd31</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.firebirdsql.jdbc.FBDriver</jdbc-driver>
+    </data-source>
+  </component>
+</project>
